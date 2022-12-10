@@ -1,4 +1,4 @@
-# SimpleSnakeGame for "WebDesign" Course
+# SimpleSnakeGame for "WebDevelopment" Course
 Gameplay sample
 
 ![image](https://user-images.githubusercontent.com/72491766/204103459-2d69025c-3189-45ad-8cb6-002c2efec13b.png)
